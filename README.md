@@ -8,7 +8,10 @@ Overview of the Project
 
 Project:-Weather App
 Output:
-![WhatsApp Image 2024-12-29 at 17 45 29 (1)](https://github.com/user-attachments/assets/95200721-159f-4a03-a689-e1193afcacc5)
+![image](https://github.com/user-attachments/assets/77cdf121-db60-4ee3-b578-a6a6e86cea04)
+
+
+![image](https://github.com/user-attachments/assets/76d64ca7-e055-46cd-98fd-a39598eda6f5)
  
 
 
